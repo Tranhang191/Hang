@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Kho_hang>
+    <Mat_hang mamathang_id="H012">
+        <ten_mathang>may tinh usus</ten_mathang> 
+        <Mo_ta_mat_hang>sangtrong</Mo_ta_mat_hang> 
+        <gia_ban>27000000</gia_ban> 
+        <ngay_nhan>
+            <ngay>28</ngay> 
+            <thang>09</thang> 
+            <nam>2021</nam> 
+        </ngay_nhan>
+    
+        <kho>kho-FPTshop</kho> 
+        <nha_cung_cap>
+            <so_luong>1</so_luong> 
+            <Thoi_gian_giao_hang donviid="cs01">1 Day</Thoi_gian_giao_hang> 
+            <gia_thanh>27000000</gia_thanh> 
+        </nha_cung_cap>
+  </Mat_hang>
+</Kho_hang>

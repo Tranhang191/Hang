@@ -1,0 +1,21 @@
+<?xml version="1.0"?>	
+<!DOCTYPE khohang[	
+<!ELEMENT khohang (mathang+,ngaynhan,kho,nhacungcap)>	
+<!ELEMENT mathang(tenmathang,motamathang,giaban)>	
+<!ATTLIST ma_id CDATA #REQUIRED>
+<!ELEMENT tenmathang (#PCDATA)>	
+<!ELEMENT motamathang (#PCDATA)>	
+<!ELEMENT giaban (#PCDATA)>
+<!ELEMENT ngaynhan (ngay,thang,nam)>	
+<!ELEMENT ngay (#PCDATA)>	
+<!ELEMENT thang (#PCDATA)>	
+<!ELEMENT nam (#PCDATA)>	
+<!ELEMENT kho(#PCDATA)>	
+<!ELEMENT nhacungcap (soluong,giathanh)>
+<!ATTLIST thoigiangiaohang DonVi CDATA #REQUIRED>
+<!ELEMENT soluong (#PCDATA)>	
+<!ELEMENT giathanh(#PCDATA)>	
+]>
+<khohang>
+    <mathang ma_id="A001"></mathang>
+</khohang>

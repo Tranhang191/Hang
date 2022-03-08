@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<khohang>
+
+
+    <mat_hang>
+        <ma_id>="01"</ma_id>
+
+        <tenmathang>Váy xếp ly</tenmathang>
+
+        <motamathang>Váy mới ra mắt</motamathang>
+
+        <giaban>130000</giaban>
+
+
+        <ngaynhan>
+
+            <ngay>22</ngay>
+
+            <thang>9</thang>
+
+            <nam>2021</nam>
+
+        </ngaynhan>
+
+        <kho>Kho TPHCM</kho>
+
+
+        <nhacungcap>Xưởng may TPHCM 
+            <soluong>100</soluong>
+
+            <thoigiangiaohang DonVi="GHNhanh">5 ngay</thoigiangiaohang>
+
+            <giathanh>45000</giathanh>
+
+        </nhacungcap>
+
+    </mat_hang>
+
+
+    <mat_hang>
+        <ma_id>="02"</ma_id>
+
+        <tenmathang>Váy Chữ A</tenmathang>
+
+        <motamathang>váy ra mắt được 1 năm</motamathang>
+
+        <giaban>100000</giaban>
+
+
+        -<ngaynhan>
+
+            <ngay>16</ngay>
+
+            <thang>10</thang>
+
+            <nam>2020</nam>
+
+        </ngaynhan>
+
+        <kho>Kho Ha Noi</kho>
+
+
+        -<nhacungcap>Xưởng may Hà Nội
+            <soluong>50</soluong>
+
+            <thoigiangiaohang DonVi="GHtietkiem">5 ngay</thoigiangiaohang>
+
+            <giathanh>30000</giathanh>
+
+        </nhacungcap>
+
+    </mat_hang>
+
+    <mat_hang>
+        <ma_id>="03"</ma_id>
+
+        <tenmathang>Váy yếm</tenmathang>
+
+        <motamathang>váy ra mặt được 2 năm</motamathang>
+
+        <giaban>150000</giaban>
+
+
+        -<ngaynhan>
+
+            <ngay>25</ngay>
+
+            <thang>4</thang>
+
+            <nam>2019</nam>
+
+        </ngaynhan>
+
+        <kho>Kho Buôn Mê Thuột</kho>
+
+
+        -<nhacungcap> Xưởng may BMT
+            <soluong>20</soluong>
+
+            <thoigiangiaohang DonVi="GHNhanh">3 ngay</thoigiangiaohang>
+
+            <giathanh>30000</giathanh>
+
+        </nhacungcap>
+
+    </mat_hang>
+
+</khohang>

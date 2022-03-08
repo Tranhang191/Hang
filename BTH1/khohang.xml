@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Khohang>
+    <Mathang>
+        <MaMH> ="001" </MaMH>
+        <TenMH> áo thun</TenMH>
+        <Gia>65000</Gia>
+        <Ngaynhan>
+            <Ngay>30</Ngay>
+            <Thang>09</Thang>
+            <Nam>2021</Nam>
+        </Ngaynhan>
+        <Kho>Hà Nội</Kho>
+        <Nhacungcap>
+            <Soluong> 50 </Soluong>
+            <TGgiaohang donvi = "cái">03</TGgiaohang>
+            <Giathanh>70000</Giathanh>
+        </Nhacungcap>
+    </Mathang>
+
+    <Mathang>
+        <MaMH> ="002" </MaMH>
+        <TenMH> áo phông</TenMH>
+        <Gia>60000</Gia>
+        <Ngaynhan>
+            <Ngay>29</Ngay>
+            <Thang>09</Thang>
+            <Nam>2021</Nam>
+        </Ngaynhan>
+        <Kho>Đà Nẵng</Kho>
+        <Nhacungcap>
+            <Soluong> 30 </Soluong>
+            <TGgiaohang donvi = "cái">05</TGgiaohang>
+            <Giathanh>65000</Giathanh>
+        </Nhacungcap>
+    </Mathang>
+
+    <Mathang>
+        <MaMH> ="003" </MaMH>
+        <TenMH> áo da</TenMH>
+        <Gia>70000</Gia>
+        <Ngaynhan>
+            <Ngay>28</Ngay>
+            <Thang>09</Thang>
+            <Nam>2021</Nam>
+        </Ngaynhan>
+        <Kho>Gia Lai</Kho>
+        <Nhacungcap>
+            <Soluong> 60 </Soluong>
+            <TGgiaohang donvi = "cái">03</TGgiaohang>
+            <Giathanh>80000</Giathanh>
+        </Nhacungcap>
+    </Mathang>
+</Khohang>
